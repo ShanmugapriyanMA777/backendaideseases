@@ -1,0 +1,35 @@
+{
+    "results": {
+        "Random Forest": {
+            "Accuracy": 1.0,
+            "Precision": 1.0,
+            "Recall": 1.0,
+            "F1": 1.0
+        },
+        "Extra Trees": {
+            "Accuracy": 1.0,
+            "Precision": 1.0,
+            "Recall": 1.0,
+            "F1": 1.0
+        },
+        "Gradient Boosting": {
+            "Accuracy": 1.0,
+            "Precision": 1.0,
+            "Recall": 1.0,
+            "F1": 1.0
+        },
+        "XGBoost": {
+            "Accuracy": 1.0,
+            "Precision": 1.0,
+            "Recall": 1.0,
+            "F1": 1.0
+        }
+    },
+    "best_model": "Random Forest",
+    "best_params": {
+        "max_depth": 20,
+        "min_samples_split": 2,
+        "n_estimators": 50
+    },
+    "final_accuracy": 1.0
+}
